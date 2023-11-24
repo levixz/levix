@@ -1,0 +1,120 @@
+body{
+    background: url(https://img.freepik.com/fotos-gratis/conceito-de-fundo-de-estudio-abstrato-fundo-de-sala-de-estudio-roxo-gradiente-de-luz-vazio-para-produto-pl_1258-110202.jpg?w=826&t=st=1700866366~exp=1700866966~hmac=462f13c33675a2e3894e6099709c23db27324c7f99deeeb43168890d2e61909f) no-repeat;
+    background-position: center; 
+    background-size:cover; 
+    padding: 70px;
+  
+  }
+
+  body.img{
+    width: 200px;
+    height: 200px;
+  }
+
+td{
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    text-align: center;
+    backdrop-filter:blur(10px);
+}
+/*
+.secao1{
+    display: flex;
+}
+*/
+
+
+.bloco {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    color: white;
+    
+  }
+
+.cores{
+    width: 30px;
+    height: 30px;
+    
+  }
+
+.botao{
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    
+    
+  }
+
+  .botao:hover{
+    transition: 0.10s;
+    box-shadow: 0 0 20px white ;
+
+  }
+
+  /*cores bloco 1*/
+#bt1bloco1cor1{
+    background-color: purple;
+}
+#bt1bloco1cor2{
+    background-color: yellow;
+}
+#bt1bloco1cor3{
+    background-color: blue;
+}
+#bt1bloco1cor4{
+    background-color: red;
+}
+
+/*cores bloco 2*/
+
+#bt1bloco2cor1{
+    background-color: purple;
+}
+#bt1bloco2cor2{
+    background-color: yellow;
+}
+#bt1bloco2cor3{
+    background-color: blue;
+}
+#bt1bloco2cor4{
+    background-color: red;
+}
+
+/*cores bloco 3*/
+
+#bt1bloco3cor1{
+    background-color: purple;
+}
+#bt1bloco3cor2{
+    background-color: yellow;
+}
+#bt1bloco3cor3{
+    background-color: blue;
+}
+#bt1bloco3cor4{
+    background-color: red;
+}
+
+
+/*cores bloco 4*/
+
+#bt1bloco4cor1{
+    background-color: purple;
+}
+#bt1bloco4cor2{
+    background-color: yellow;
+}
+#bt1bloco4cor3{
+    background-color: blue;
+}
+#bt1bloco4cor4{
+    background-color: red;
+}
+
+
+/*fim bloco cores*/
+
+#secao1lin1col2{
+    display: flex;
+}
